@@ -4,6 +4,8 @@ This checkbox was created to participate in the Community Challenge Mind Mingle.
 
 <img src="./public/image/Screenshot.png">
 
+**<a href="https://royal-checkbox.vercel.app/">Live Demo</a>**
+
 ## Credits
 
 **Data Source**
